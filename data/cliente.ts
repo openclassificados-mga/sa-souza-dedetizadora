@@ -21,7 +21,7 @@ export const dadosCliente = {
 
   // Conteúdo principal
   conteudo: {
-    tituloPrincipal: "Souza Controle de Praga - Soluções em Limpeza e Dedetização",
+    tituloPrincipal: "Souza Controle de Pragas - Soluções em Limpeza e Dedetização",
     subtitulo: "Protegendo sua saúde e seu patrimônio em Londrina e região. Atendimento rápido e técnico.",
     sobreNos:
       "Somos uma empresa especializada em serviços de dedetização profissional, limpeza de caixas d'água e manutenção de placas solares. Oferecemos soluções rápidas e confiáveis para proteger sua residência e empresa. Nossa equipe é experiente e utiliza equipamentos de última geração para garantir segurança, qualidade e eficácia.",
@@ -74,7 +74,7 @@ export const dadosCliente = {
 
   // Metadados SEO
   seo: {
-    siteTitle: "Souza Controle de Praga | Londrina - PR | (43) 99618-1457",
+    siteTitle: "Souza Controle de Pragas | Londrina - PR | (43) 99618-1457",
     description:
       "Especialistas em dedetização, limpeza de caixas d'água e manutenção de placas solares em Londrina. Qualidade e confiança para sua residência ou empresa.",
     url: "https://souza-controle-praga.vercel.app",
