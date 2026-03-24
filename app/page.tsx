@@ -158,7 +158,7 @@ const Page = () => {
                   />
                   <div>
                     <h4 className="font-semibold text-white text-base">Mariana Costa</h4>
-                    <p className="text-sm text-zinc-400">Dona de Casa</p>
+                    <p className="text-sm text-zinc-400">Proprietária Residencial</p>
                   </div>
                 </div>
                 <div className="flex gap-1 mb-3">
@@ -169,7 +169,7 @@ const Page = () => {
                   ))}
                 </div>
                 <p className="text-sm sm:text-base text-zinc-300 leading-relaxed">
-                  &quot;Meu encanamento entupiu e não sabia o que fazer. Desentupiram na hora com equipamento profissional. Ficou como novo!&quot;
+                  &quot;A água da minha caixa estava com qualidade ruim. Fizeram limpeza profissional completa e agora a água está pura e segura. Muito satisfeita com o serviço!&quot;
                 </p>
               </div>
             </div>
@@ -188,7 +188,7 @@ const Page = () => {
                   />
                   <div>
                     <h4 className="font-semibold text-white text-base">Roberto Oliveira</h4>
-                    <p className="text-sm text-zinc-400">Gerente Comercial</p>
+                    <p className="text-sm text-zinc-400">Proprietário com Energia Solar</p>
                   </div>
                 </div>
                 <div className="flex gap-1 mb-3">
@@ -199,7 +199,7 @@ const Page = () => {
                   ))}
                 </div>
                 <p className="text-sm sm:text-base text-zinc-300 leading-relaxed">
-                  &quot;Precisei de dedetização urgente em minha empresa e consegui atendimento no mesmo dia. Equipe profissional, rápida e com atendimento 24h realmente confiável!&quot;
+                  &quot;Minhas placas solares estavam com pouca eficiência. Após a limpeza profissional, a geração de energia aumentou significativamente. Recomendo!&quot;
                 </p>
               </div>
             </div>
