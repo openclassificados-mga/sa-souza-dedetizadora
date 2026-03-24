@@ -11,46 +11,46 @@ export const dadosCliente = {
 
   // Informações de contato
   contato: {
-    whatsappNumber: "5544999324635",
-    whatsappLink: "https://wa.me/5544999324635?text=Olá, Preciso de um orçamento!!",
+    whatsappNumber: "5543996181457",
+    whatsappLink: "https://wa.me/5543996181457?text=Olá, Preciso de um orçamento!!",
     instagram: "https://instagram.com", // Adicione o link real se houver
     email: "",
-    endereco: "Rua Deodoro da Fonseca, s/n - Zona Norte - Maringá - PR, CEP: 87.1000-000",
-    telefone: "(44) 99932-4635",
+    endereco: "Av. Mario José Romagnoli, 447 - Jardim dos Estados, Londrina - PR, 86083-140",
+    telefone: "(43) 99618-1457",
   },
 
   // Conteúdo principal
   conteudo: {
-    tituloPrincipal: "Dedetizadora e Desentupidora Lady Bug",
-    subtitulo: "Serviços de dedetização e desentupimento quando você mais precisa.\nEstamos prontos para ajudar 24/7.",
+    tituloPrincipal: "Souza Controle de Praga - Soluções em Limpeza e Dedetização",
+    subtitulo: "Protegendo sua saúde e seu patrimônio em Londrina e região. Atendimento rápido e técnico.",
     sobreNos:
-      "Somos uma empresa especializada em serviços de dedetização e desentupimento com atendimento 24 horas. Oferecemos soluções rápidas e confiáveis para todos os tipos de pragas e entupimentos. Nossa equipe é experiente e utiliza equipamentos de última geração para garantir segurança, qualidade e eficácia.",
+      "Somos uma empresa especializada em serviços de dedetização profissional, limpeza de caixas d'água e manutenção de placas solares. Oferecemos soluções rápidas e confiáveis para proteger sua residência e empresa. Nossa equipe é experiente e utiliza equipamentos de última geração para garantir segurança, qualidade e eficácia.",
   },
 
   // Serviços oferecidos
   servicos: [
     {
       id: 1,
-      titulo: "Dedetização",
-      descricao: "Controle completo de pragas e insetos",
+      titulo: "Dedetização Profissional",
+      descricao: "Controle de insetos, roedores e pragas urbanas com segurança",
       icone: "🐛",
     },
     {
       id: 2,
-      titulo: "Desentupimento",
-      descricao: "Solução rápida para todos os tipos de entupimento",
-      icone: "🔧",
+      titulo: "Limpeza de Caixa d'Água",
+      descricao: "Higienização completa para garantir a pureza da sua água",
+      icone: "💧",
     },
     {
       id: 3,
-      titulo: "Profissionais Certificados",
-      descricao: "Equipe treinada e qualificada",
-      icone: "👨‍⚕️",
+      titulo: "Limpeza de Placas Solares",
+      descricao: "Manutenção técnica para aumentar a eficiência da sua geração de energia",
+      icone: "☀️",
     },
     {
       id: 4,
-      titulo: "Atendimento 24/7",
-      descricao: "Disponível todos os dias, sem intervalo",
+      titulo: "Atendimento Rápido e Técnico",
+      descricao: "Profissionais qualificados e certificados",
       icone: "⏰",
       destaque: true,
     },
@@ -59,25 +59,25 @@ export const dadosCliente = {
   // Recursos principais (exibidos no hero)
   recursos: [
     {
-      titulo: "Resposta Rápida",
-      descricao: "Atendimento em menos de 30 minutos",
+      titulo: "Especialistas em Londrina",
+      descricao: "Serviços confiáveis e técnicos para sua região",
     },
     {
-      titulo: "Serviços Variados",
-      descricao: "Residencial, comercial e industrial",
+      titulo: "Três Especialidades",
+      descricao: "Dedetização, limpeza de água e placas solares",
     },
     {
-      titulo: "Preços Transparentes",
-      descricao: "Orçamento honesto sem taxas ocultas",
+      titulo: "Profissionais Qualificados",
+      descricao: "Equipe experiente e certificada",
     },
   ],
 
   // Metadados SEO
   seo: {
-    siteTitle: "Dedetizadora e Desentupidora Lady Bug | (44) 99932-4635",
+    siteTitle: "Souza Controle de Praga | Londrina - PR | (43) 99618-1457",
     description:
-      "Serviços de dedetização e desentupimento em Maringá. Atendimento 24 horas. Profissionais certificados e preços transparentes.",
-    url: "https://dedetizadora-lady-bug.vercel.app",
+      "Especialistas em dedetização, limpeza de caixas d'água e manutenção de placas solares em Londrina. Qualidade e confiança para sua residência ou empresa.",
+    url: "https://souza-controle-praga.vercel.app",
     ogImage: "/og-image.jpg",
   },
 }
