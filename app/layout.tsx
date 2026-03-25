@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   generator: "v0.app",
   // Nova tag de verificação inserida corretamente via Metadata API
   verification: {
-    google: "lRIU7ArnQWtFNofbaEQEbbM4pRWc-U3bt8NZXhapJHQ",
+    google: "OQ18zxm5jwjtUma02of36qhsH3hzOuIvHqnZSk-kd_A",
   },
   openGraph: {
     title: dadosCliente.seo.siteTitle,
